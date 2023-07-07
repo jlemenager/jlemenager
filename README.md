@@ -4,6 +4,7 @@
 -Check out my previous project, Ecotone: an affiliate ecommerce site for ethically and sustainably made clothing products with an ESG score of each project 🌱
 
 
+
 More about me: 
 
 I am a full-stack software engineer who uses an innovative, organized, and determined mindset to improve the landscape of companies. Having moved up the ladder at a sustainable fashion tech startup by improving their marketing presence and affiliate partnerships, helping companies help the world is a passion of mine. I spend a lot of time theorizing solutions to problems, and, as a developer, I utilize this mindset to make lasting change from the ground up.
