@@ -5,7 +5,7 @@ I am a full-stack software engineer who uses an innovative, organized, and deter
 
 -Check out my previous project, Ecotone: an affiliate ecommerce site for ethically and sustainably made clothing products with an ESG score of each project 🌱
 
-SKILLS:
+TECHNICAL SKILLS:
 
 Languages: JavaScript · Python · CSS3 · HTML5
 
