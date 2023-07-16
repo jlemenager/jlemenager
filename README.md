@@ -5,9 +5,7 @@ I am a full-stack software engineer who uses an innovative, organized, and deter
 
 -Check out my previous project, Ecotone: an affiliate ecommerce site for ethically and sustainably made clothing products with an ESG score of each project 🌱
 
-TECHNICAL SKILLS: 
-
-JavaScript · Python · CSS3 · HTML5 · React.js · Express.js · Node.js · Django · Mongoose · SASS · JQuery · Tone.js · Chart.js · MongoDB · PostgreSQL
+TECHNICAL SKILLS: JavaScript · Python · CSS3 · HTML5 · React.js · Express.js · Node.js · Django · Mongoose · SASS · JQuery · Tone.js · Chart.js · MongoDB · PostgreSQL
 
 Other: Github · VSCode · Figma · Canva · Lucidchart · Trello
 
