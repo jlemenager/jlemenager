@@ -5,6 +5,12 @@ I am a full-stack software engineer who uses an innovative, organized, and deter
 
 -Check out my previous project, Ecotone: an affiliate ecommerce site for ethically and sustainably made clothing products with an ESG score of each project 🌱
 
+SKILLS:
+Languages: JavaScript · Python · CSS3 · HTML5
+Libraries: React.js · Express.js · Node.js · Django · Mongoose · SASS · JQuery · Tone.js · Chart.js
+Databases: MongoDB · PostgreSQL
+Other: Github · VSCode · Figma · Canva · Lucidchart · Trello
+
 <!--
 **jlemenager/jlemenager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
