@@ -9,6 +9,7 @@ TECHNICAL SKILLS: JavaScript · Python · CSS3 · HTML5 · React.js · Express.j
 
 Other: Github · VSCode · Figma · Canva · Lucidchart · Trello
 
+Connect with me here: in/jeremy-lemenager-dev
 <!--
 **jlemenager/jlemenager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
