@@ -5,8 +5,11 @@ I am a full-stack software engineer who uses an innovative, organized, and deter
 
 Other Projects: 
 ECOTONE: An affiliate ecommerce site for ethically and sustainably made clothing products with an ESG score of each project 🌱
+
 STYLESWAP: A social media site that allows users to post pictures of their fashion styles and sell their secondhand clothing 
+
 CLEAREAR: A web application that quizzes you on musical pitches and keys across various levels in a guitar-hero-like vision
+
 THE LIBATION STATION: A web application that lets you search for drinks and their recipes based on key words and phrases
 
 TECHNICAL SKILLS: JavaScript · Python · CSS3 · HTML5 · React.js · Express.js · Node.js · Django · Mongoose · SASS · JQuery · Tone.js · Chart.js · MongoDB · PostgreSQL
