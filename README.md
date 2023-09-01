@@ -15,7 +15,7 @@ THE LIBATION STATION: A web application that lets you search for drinks and thei
 
 TECHNICAL SKILLS: JavaScript · Python · CSS3 · HTML5 · React.js · Express.js · Node.js · Django · Mongoose · SASS · JQuery · Tone.js · Chart.js · MongoDB · PostgreSQL
 
-Other: Github · VSCode · Figma · Webflow ·Canva · Lucidchart · Trello
+Other: Github · VSCode · Figma · Webflow · Canva · Lucidchart · Trello
 <!--
 **jlemenager/jlemenager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
